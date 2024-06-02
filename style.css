@@ -1,0 +1,89 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+.nav-link {
+    font-size: 24px;
+    color: brown;
+    text-decoration: none;
+    display: block;}
+
+.logo{
+    height: 100px;
+    width: 100px;
+  
+}
+   
+nav {
+    border-top: 5px solid brown;
+    border-bottom: 5px solid brown;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+header {
+    text-align: center;
+}
+body{
+    background-color: orange;
+}
+
+ul {
+size: 300px;
+}
+
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+}
+table {
+    border: 1px solid blueviolet;
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid blueviolet;
+}
+footer {
+    background-color: brown;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+.footer-text {
+    font-size: 24px;
+    margin-right: 30px;
+}
+
+.footer-text span {
+    color: orange;
+    font-weight: bolder;
+}
+.button {
+    opacity:0,5;
+    background-color: darkred;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+    text-align: right;
+    margin: 10px;
+}
+.yh {
+    margin-left: 850px; 
+    text-align: right;
+}
+.button:hover{
+    background-image: linear-gradient(red,orange);
+    opacity:1;
+    box-shadow:19px 19px black;
+}
